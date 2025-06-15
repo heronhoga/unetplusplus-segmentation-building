@@ -1,0 +1,1 @@
+create folder using the structure: dataset -> (test, train, valid). for each folder -> (images, labels, output_masks)
