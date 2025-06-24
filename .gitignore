@@ -1,2 +1,4 @@
 *.zip
 dataset
+input_photos
+output_folder
